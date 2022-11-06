@@ -1,1 +1,1 @@
-loadstring(game:httpget("https://raw.githubusercontent.com/Slimeslinger/dr.strang/main/dub")()
+loadstring(game:httpget("https://raw.githubusercontent.com/Slimeslinger/dr.strang/main/dub"))()
